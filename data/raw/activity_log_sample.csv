@@ -1,0 +1,31 @@
+﻿Day Type,Activity,Activity Category,Avg Hours per Day
+Weekdays,Reading,Hobby,1
+,Minecraft,Game,1
+,YouTube,Game,1
+,Comic,Creative,1
+,Math,Education,0.3
+,Roblox,Game,0.5
+,Pokemon,Game,0.1
+,LEGO,Creative,0.5
+,Journal,Education,0.25
+,Piano,Education,0.1
+,Scratch,Hobby,0.2
+,Language,Education,0.1
+,Playtime,Physical,0.25
+,Gardening,Physical,0.1
+,DIY Crafting,Creative,0.2
+Weekends,Reading,Hobby,2
+,Minecraft,Game,1.5
+,YouTube,Game,1
+,Comic,Creative,1.5
+,Math,Education,1
+,Roblox,Game,1
+,Pokemon,Game,0.25
+,LEGO,Creative,0.5
+,Journal,Education,0.5
+,Piano,Education,0.25
+,Scratch,Hobby,0.3
+,Language,Education,0.2
+,Playtime,Physical,0.25
+,Gardening,Physical,0.25
+,DIY Crafting,Creative,0.5
