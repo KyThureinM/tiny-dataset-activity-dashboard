@@ -1,0 +1,12 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Excel temp files
+~$*.xlsx
+~$*.xls
+
+# Optional: Python/Jupyter leftovers if added later
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
