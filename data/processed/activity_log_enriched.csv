@@ -1,0 +1,31 @@
+﻿Day Type,Activity,Activity Category,Avg Hours per Day,Parent Engagement Flag,Interaction Mode
+Weekdays,Reading,Hobby,1,0,Solo
+Weekdays,Minecraft,Game,1,-1,Social
+Weekdays,YouTube,Game,1,-1,Solo
+Weekdays,Comic,Creative,1,0,Solo
+Weekdays,Math,Education,0.3,0,Solo
+Weekdays,Roblox,Game,0.5,-1,Social
+Weekdays,Pokemon,Game,0.1,0,Solo
+Weekdays,LEGO,Creative,0.5,0,Solo
+Weekdays,Journal,Education,0.25,1,Solo
+Weekdays,Piano,Education,0.1,1,Solo
+Weekdays,Scratch,Hobby,0.2,0,Solo
+Weekdays,Language,Education,0.1,1,Solo
+Weekdays,Playtime,Physical,0.25,1,Social
+Weekdays,Gardening,Physical,0.1,1,Social
+Weekdays,DIY Crafting,Creative,0.2,0,Solo
+Weekends,Reading,Hobby,2,0,Solo
+Weekends,Minecraft,Game,1.5,-1,Social
+Weekends,YouTube,Game,1,-1,Solo
+Weekends,Comic,Creative,1.5,0,Solo
+Weekends,Math,Education,1,0,Solo
+Weekends,Roblox,Game,1,-1,Social
+Weekends,Pokemon,Game,0.25,0,Solo
+Weekends,LEGO,Creative,0.5,0,Solo
+Weekends,Journal,Education,0.5,1,Solo
+Weekends,Piano,Education,0.25,1,Solo
+Weekends,Scratch,Hobby,0.3,0,Solo
+Weekends,Language,Education,0.2,1,Solo
+Weekends,Playtime,Physical,0.25,1,Social
+Weekends,Gardening,Physical,0.25,1,Social
+Weekends,DIY Crafting,Creative,0.5,0,Solo
